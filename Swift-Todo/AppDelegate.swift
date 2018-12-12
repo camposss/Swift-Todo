@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Swift-Todo
 //
-//  Created by Mark Lintner on 11/25/18.
+//  Created by Christian Campos on 11/25/18.
 //  Copyright © 2018 Campos Swift Tutorials. All rights reserved.
 //
 
